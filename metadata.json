@@ -1,0 +1,5 @@
+{
+  "name": "Backstage Poster Generator",
+  "description": "An application to generate a backstage schedule poster for a rock festival using a detailed prompt with Gemini's image generation capabilities.",
+  "requestFramePermissions": []
+}
